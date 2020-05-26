@@ -1,6 +1,6 @@
 /* Autor: Paulo Borges
  * Data: 02 setembro de 2018
- * E-mail: paulo2cs@gmail.com
+ * E-mail: pauloborge10@yandex.com
  */
 
 // Rótulo das entradas/saídas físicas
